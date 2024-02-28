@@ -1,2 +1,2 @@
-# new-app
-new app
+# new-app #react #html #css  #javascript
+keep notes app in react
